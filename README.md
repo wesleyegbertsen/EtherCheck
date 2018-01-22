@@ -4,7 +4,7 @@ A really simple API build in PHP, that allows you to check an Etherum address' b
 Usage: /index.php?address=REPLACE_WITH_ADDRESS_TO_CHECK
 
 Returns: 
-
+```
 {
   "ether": {
     "balance": Address' current balance,
@@ -20,3 +20,4 @@ Returns:
     }
   }
 }
+```
