@@ -11,11 +11,11 @@ Returns:
     "value": {
       "euro": {
         "balance": Balance in Euro,
-        "rate": Eth/Eur
+        "rate": Eur/Eth
       },
       "dollar": {
         "balance": Balance in USD,
-        "rate": Eth/Usd
+        "rate": Usd/Eth
       }
     }
   }
