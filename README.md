@@ -7,7 +7,7 @@ Returns:
 ```
 {
   "ether": {
-    "balance": Address' current balance,
+    "balance": Address' current balance in Ether,
     "value": {
       "euro": {
         "balance": Balance in Euro,
