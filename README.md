@@ -21,4 +21,4 @@ Returns:
   }
 }
 ```
-Demo: `https://wesleyegbertsen.nl/ethercheck/?address=REPLACE_WITH_ADDRESS_TO_CHECK`
+Demo: `https://ethercheck.wesleydev.nl/api.php?address=REPLACE_WITH_ADDRESS_TO_CHECK`
